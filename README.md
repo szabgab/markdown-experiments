@@ -8,5 +8,10 @@
 
 text before bullet
 * bullet after text
+text after bullet
+
+
+free text
+second line
 
 
